@@ -2,11 +2,11 @@
         <section class="wow fadeIn">
             <div class="container">
                 <div class="row justify-content-center">
-                   <!-- <div class="col-12 col-lg-7 text-center margin-100px-bottom sm-margin-40px-bottom">
+                    <div class="col-12 col-lg-7 text-center margin-100px-bottom sm-margin-40px-bottom">
                         <div class="position-relative overflow-hidden w-100">
-                            <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase">Counters Style 01</span>
+                            <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
                 <div class="row">
                     <!-- start counter item-->
