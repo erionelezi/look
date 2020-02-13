@@ -275,6 +275,10 @@ a.text-very-light-gray-hover:hover {color:#ededed !important;}
     position: absolute;
     right: 30px;
 }
+.accordion-style3 .panel .panel-heading {
+    background: #1c1c1c !important;
+}
+
 section {padding: 80px 0; overflow: hidden;}
 section.big-section {padding:160px 0;}
 section.extra-big-section {padding:200px 0;}

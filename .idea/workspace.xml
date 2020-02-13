@@ -4,13 +4,6 @@
     <list default="true" id="3bf28cfa-d997-41e7-acd5-db810dd869e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo-white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/accordion.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/accordion.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/bannerRed.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/bannerRed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/partneretTane.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/partneretTane.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/perkufizim.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/perkufizim.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +56,7 @@
       <workItem from="1581442629117" duration="1045000" />
       <workItem from="1581458438824" duration="3937000" />
       <workItem from="1581590066332" duration="3097000" />
-      <workItem from="1581618620583" duration="8339000" />
+      <workItem from="1581618620583" duration="8583000" />
     </task>
     <servers />
   </component>
