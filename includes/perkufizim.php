@@ -12,7 +12,6 @@
                     dhe sjellje seksuale, që përfshin fëmijët, vajza dhe djem, para pubertetit ose në pubertetin e hershëm. Në mënyrë që ajo të diagnostikohet
                     si çrregullim pedofilik, me kod 6D32, individi duhet të ketë tentuar apo të ketë vepruar mbi këto mendime, fantazi, dëshira ose të ketë shprehur shqetësimin për to.
                     Kjo diagnozë nuk vlen për sjellje të tilla seksuale mes fëmijëve në moshë të afërt.  </p>
-                <a href="home-creative-small-business.html" class="btn btn-small btn-white btn-rounded margin-35px-top md-margin-25px-top">Start Your Business</a>
             </div>
         </div>
     </div>

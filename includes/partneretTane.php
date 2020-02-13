@@ -5,13 +5,13 @@
         <div class="row">
             <div class="swiper-slider-clients swiper-container white-move">
                 <div class="swiper-wrapper">
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo1.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo2.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo3.png" alt=""></div><!-- end slider item -->
                     <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo1.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo2.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo3.png" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
                     <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
                 </div>
             </div>

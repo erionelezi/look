@@ -5,7 +5,7 @@
                     <div class="row align-items-center">
                         <!-- start slogan -->
                         <div class="col-lg-4 text-center text-md-left md-margin-three-bottom sm-margin-20px-bottom">
-                            <h6 class="text-dark-gray width-70 lg-width-100 no-margin-bottom">London Based Creative Studio</h6>
+                            <h6 class="text-dark-gray width-70 lg-width-100 no-margin-bottom">Albanian Center Medialook</h6>
                         </div>
                         <!-- end slogan -->
                         <!-- start contact information -->
@@ -34,8 +34,8 @@
                 <!-- start copyright -->
                 <div class="footer-bottom border-top border-color-medium-dark-gray padding-40px-top sm-padding-30px-top">
                     <div class="row align-items-center">
-                        <div class="col-md-6 text-md-left text-center text-small">POFO - Portfolio Concept Theme</div>
-                        <div class="col-md-6 text-md-right text-center text-small">&copy; 2019 POFO is Proudly Powered by <a href="http://www.themezaa.com" target="_blank" title="ThemeZaa">ThemeZaa</a></div>
+                        <div class="col-md-6 text-md-left text-center text-small">MediaLook - Titulli Projektit</div>
+                        <div class="col-md-6 text-md-right text-center text-small">&copy; 2020 MediaLook is Proudly Powered by <a href="www.beetech.al" target="_blank" title="BeeTech">BeeTech</a></div>
                     </div>
                 </div>
                 <!-- end copyright -->
