@@ -9,9 +9,9 @@
                         <div class="padding-eighteen-all lg-padding-eight-all sm-padding-15px-lr">
                             <div class="margin-30px-bottom text-center position-relative">
                                 <span class="title-large alt-font font-weight-100 text-dark-gray opacity4">01</span>
-                                <p class="alt-font font-weight-600 text-deep-pink text-uppercase position-absolute left-0 right-0 top-35 md-top-25 sm-top-12">Let’s make something beautiful</p>
+                                <p class="alt-font font-weight-600 text-deep-pink text-uppercase position-absolute left-0 right-0 top-35 md-top-25 sm-top-12">We are digital media agency</p>
                             </div>
-                            <h4 class="alt-font text-white-2">Unlimited power and customization possibilities</h4>
+                            <h4 class="alt-font text-white-2">Lorem Ipsum is simply dummy text of the printing</h4>
                             <p class="width-90 sm-width-85 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum has been the industry's standard dummy text since. Lorem Ipsum is simply dummy text of the typesetting industry.</p>
                         </div>
                     </div>
@@ -23,7 +23,7 @@
                                 <span class="title-large alt-font font-weight-100 text-dark-gray opacity4">02</span>
                                 <p class="alt-font font-weight-600 text-deep-pink text-uppercase position-absolute left-0 right-0 top-35 md-top-25 sm-top-12">We are digital media agency</p>
                             </div>
-                            <h4 class="alt-font text-white-2">We are delivering beautiful digital products for you</h4>
+                            <h4 class="alt-font text-white-2">Lorem Ipsum is simply dummy text of the printing</h4>
                             <p class="width-90 sm-width-85 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum has been the industry's standard dummy text since. Lorem Ipsum is simply dummy text of the typesetting industry.</p>
                         </div>
                     </div>
@@ -33,9 +33,9 @@
                         <div class="padding-eighteen-all lg-padding-eight-all sm-padding-15px-lr">
                             <div class="margin-30px-bottom text-center position-relative">
                                 <span class="title-large alt-font font-weight-100 text-dark-gray opacity4">03</span>
-                                <p class="alt-font font-weight-600 text-deep-pink text-uppercase position-absolute left-0 right-0 top-35 md-top-25 sm-top-12">We create designs and technology.</p>
+                                <p class="alt-font font-weight-600 text-deep-pink text-uppercase position-absolute left-0 right-0 top-35 md-top-25 sm-top-12">We are digital media agency</p>
                             </div>
-                            <h4 class="alt-font text-white-2">We provide high quality & cost effective services</h4>
+                            <h4 class="alt-font text-white-2">Lorem Ipsum is simply dummy text of the printing</h4>
                             <p class="width-90 sm-width-85 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum has been the industry's standard dummy text since. Lorem Ipsum is simply dummy text of the typesetting industry.</p>
                         </div>
                     </div>

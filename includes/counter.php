@@ -2,9 +2,9 @@
         <section class="wow fadeIn">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 col-lg-7 text-center margin-100px-bottom sm-margin-40px-bottom">
+                    <div class="col-12 col-lg-7 text-center margin-40px-bottom sm-margin-40px-bottom">
                         <div class="position-relative overflow-hidden w-100">
-                            <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                            <span class="text-big text-outside-line-full alt-font font-weight-600 text-uppercase">Numrat flasin!</span>
                         </div>
                     </div>
                 </div>

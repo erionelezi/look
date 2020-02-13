@@ -311,7 +311,7 @@ $(document).ready(function () {
         },
         on: {
             resize: function () {
-                swiperFull.update();
+               /* swiperFull.update();*/
             }
         }
     });
@@ -870,10 +870,10 @@ $(document).ready(function () {
         /* update all swiper on window resize */
 
         setTimeout(function () {
-            if ($('.swiper-full-screen').length > 0 && swiperFull)
+            /*if ($('.swiper-full-screen').length > 0 && swiperFull)
             {
                 swiperFull.update();
-            }
+            }*/
 
             if ($('.swiper-auto-fade').length > 0 && swiperAutoFade)
             {
