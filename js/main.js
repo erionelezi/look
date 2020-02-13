@@ -1178,7 +1178,7 @@ $(document).ready(function () {
         $('.chart2').appear();
         $('.chart2').easyPieChart({
             easing: 'easeOutCirc',
-            barColor: '#ff214f',
+            barColor: '#ed2126',
             trackColor: '#c7c7c7',
             scaleColor: false,
             scaleLength: 1,
@@ -1206,7 +1206,7 @@ $(document).ready(function () {
         $('.chart3').appear();
         $('.chart3').easyPieChart({
             easing: 'easeOutCirc',
-            barColor: '#ff214f',
+            barColor: '#ed2126',
             trackColor: '',
             scaleColor: false,
             scaleLength: 1,

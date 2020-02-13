@@ -1,6 +1,13 @@
  <!-- start pie chart section -->
-        <section class="wow fadeIn">
+        <section class="wow fadeIn pb-1">
             <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-7 text-center margin-40px-bottom sm-margin-40px-bottom">
+                        <div class="position-relative overflow-hidden w-100">
+                            <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase">Rastet</span>
+                        </div>
+                    </div>
+                </div>
                 <div class="row">
                     <!-- start pie chart item -->
                     <div class="col-12 col-lg-3 col-md-6 text-center chart-style1 wow fadeInUp md-margin-30px-bottom sm-margin-40px-bottom">

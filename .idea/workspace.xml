@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bf28cfa-d997-41e7-acd5-db810dd869e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/accordion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/partneretTane.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/textSlider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/perfundimet.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootsnav.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootsnav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/counter.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/counter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/partneretTane.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/partneretTane.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/pieChart.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/pieChart.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1XfgagATaOuDGcdPoHstQIo6Ook" />
   <component name="ProjectViewState">
@@ -60,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581442627963</updated>
       <workItem from="1581442629117" duration="1045000" />
-      <workItem from="1581458438824" duration="3141000" />
+      <workItem from="1581458438824" duration="3937000" />
+      <workItem from="1581590066332" duration="1973000" />
     </task>
     <servers />
   </component>
@@ -68,9 +70,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1581459280986">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1581463683527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="96" width="607" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581459280986" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581463683527" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581463668845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1581463668845" />
+    <state x="379" y="96" width="737" height="606" key="find.popup" timestamp="1581598655800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581598655800" />
   </component>
 </project>
