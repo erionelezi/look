@@ -92,6 +92,14 @@
         <!-- revolution -->
         <script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js"></script>
         <script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js"></script>
+         <script src="https://www.amcharts.com/lib/4/core.js"></script>
+         <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+         <script src="https://www.amcharts.com/lib/4/maps.js"></script>
+         <script src="https://www.amcharts.com/lib/4/geodata/albaniaHigh.js"></script>
+         <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+
+         <!-- partial -->
+         <script  src="./includes/harta/harta1/script.js"></script>
         <!-- revolution slider extensions (load below extensions JS files only on local file systems to make the slider work! The following part can be removed on server for on demand loading) -->
         <!--<script type="text/javascript" src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
         <script type="text/javascript" src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>

@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bf28cfa-d997-41e7-acd5-db810dd869e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/includes/harta/harta1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/harta/harta1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/harta/harta1/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +35,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/includes/harta/harta1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\medialook\includes\harta\harta1" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,7 +67,8 @@
       <workItem from="1581442629117" duration="1045000" />
       <workItem from="1581458438824" duration="3937000" />
       <workItem from="1581590066332" duration="3097000" />
-      <workItem from="1581618620583" duration="8583000" />
+      <workItem from="1581618620583" duration="9298000" />
+      <workItem from="1581673192453" duration="2937000" />
     </task>
     <servers />
   </component>
@@ -72,10 +84,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1581463668845" />
-    <state x="379" y="96" width="737" height="606" key="find.popup" timestamp="1581598655800">
+    <state x="379" y="96" width="737" height="606" key="find.popup" timestamp="1581685514887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="96" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581598655800" />
+    <state x="379" y="96" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581685514887" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1581620692171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

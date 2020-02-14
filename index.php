@@ -8,6 +8,7 @@
 <?php require 'includes/partneretTane.php' ?>
 <?php require 'includes/perfundimet.php' ?>
 <?php require 'includes/perkufizim.php' ?>
+<?php require 'includes/harta/harta1/index.php' ?>
 <?php require 'includes/bannerRed.php' ?>
 <?php require 'required/footer.php' ?>
 
