@@ -1,5 +1,5 @@
 <!-- start accordions style 03 section -->
-<section class="wow fadeIn">
+<section id="miteFakte" class="wow fadeIn">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-7 text-center margin-100px-bottom sm-margin-40px-bottom">
@@ -19,11 +19,11 @@
                                 <div class="panel-title">
                                     <span class="alt-font font-weight-600 text-deep-pink tab-tag">01</span>
                                     <span class="text-white-2 sm-width-80 d-inline-block">Mit: Fëmijët rrezikohen të ngacmohen seksualisht nga personat e panjohur   </span>
-                                    <i class="indicator fas fa-angle-up float-right text-extra-dark-gray "></i>
+                                    <i class="indicator fas fa-angle-down float-right text-extra-dark-gray "></i>
                                 </div>
                             </a>
                         </div>
-                        <div id="accordion-3-One" class="panel-collapse collapse show" data-parent="#accordion-3">
+                        <div id="accordion-3-One" class="panel-collapse collapse" data-parent="#accordion-3">
                             <div class="panel-body">Fakt: Ngacmimi seksual te fëmijët ndodh kryesisht nga persona që janë pjesëtarë të rrethit të ngushtë familjarë, ose të njohur a komshinj të familjes. Vëzhgimi i MediaLook mbi rastet e idenfikuara dhe për të cilat ka një vendim nga Gjykata e Shkallës së Parë tregojnë se Pedofilët janë persona që kanë akses të madh në kohë dhe hapësirë te fëmijët.</div>
                         </div>
                     </div>

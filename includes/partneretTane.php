@@ -5,14 +5,11 @@
         <div class="row">
             <div class="swiper-slider-clients swiper-container white-move">
                 <div class="swiper-wrapper">
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
-                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/clients-logo4.png" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/logo1.jpg" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/logo2.jpg" alt=""></div><!-- end slider item -->
+					<!-- start slider item --><div class="swiper-slide text-center"><img src="images/logo1.jpg" alt=""></div><!-- end slider item -->
+                    <!-- start slider item --><div class="swiper-slide text-center"><img src="images/logo2.jpg" alt=""></div><!-- end slider item -->
+					
                 </div>
             </div>
         </div>

@@ -1,5 +1,5 @@
 <!-- start process step style 01 section -->
-<section class="wow fadeIn">
+<section id="konkluzione" class="wow fadeIn">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-7 text-center margin-40px-bottom sm-margin-40px-bottom">
