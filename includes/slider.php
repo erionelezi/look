@@ -48,7 +48,7 @@
             </div>
             <!-- end slider item -->
             <!-- start slider item -->
-            <div class="swiper-slide cover-background" style="background-image:url('images/femija-kosova.jpg');">
+            <div class="swiper-slide cover-background" style="background-image:url('images/tipologjia.jpg');">
                 <div class="opacity-extra-medium bg-black"></div>
                 <div class="container position-relative full-screen">
                     <div class="slider-typography text-center">
