@@ -4412,7 +4412,7 @@
     .sm-col-4-nth .col-sm-3:nth-child(4n+1) {clear: left;}
     /*.sm-mx-auto {float: none; margin: 0 auto;}*/
     .mobile-height, .swiper-full-screen { height: auto !important;}
-    .mobile-height .full-screen, .swiper-full-screen .full-screen {height: 480px !important; min-height: 480px !important}
+    .mobile-height .full-screen, .swiper-full-screen .full-screen {height: 700px !important; min-height: 700px !important}
     .overlap-section {margin-top: 0}
     .gridblock-main {padding: 15px;}
     .gridblock-list li {width: 100%;}

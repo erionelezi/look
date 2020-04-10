@@ -34,7 +34,7 @@
                 <!-- start copyright -->
                 <div class="footer-bottom border-top border-color-medium-dark-gray padding-40px-top sm-padding-30px-top">
                     <div class="row align-items-center">
-                        <div class="col-md-6 text-md-left text-center text-small">MediaLook - Titulli Projektit</div>
+                        <div class="col-md-6 text-md-left text-center text-small">MediaLook - Krimet seksuale ndaj të miturve: Një qasje e re ndaj pedofilisë!</div>
                         <div class="col-md-6 text-md-right text-center text-small">&copy; 2020 MediaLook is Proudly Crafted by <a href="https://www.beetech.al" target="_blank" title="BeeTech">BeeTech</a></div>
                     </div>
                 </div>

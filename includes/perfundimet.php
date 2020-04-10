@@ -69,23 +69,13 @@
                             </div>   
                         </div>
                     </div>
-                    <!-- end feature box item-->
+                    <!-- end feature box item-->                      
                       <!-- feature box item-->
                       <div class="col-12 col-md-4 sm-margin-five-bottom last-paragraph-no-margin wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                         <div class="feature-box">
                             <div class="content">
-                                <i class="fas fa-wifi text-medium-gray icon-large margin-25px-bottom md-margin-15px-bottom"></i>
-                                <p class="width-85 mx-auto md-width-100 text-left">Fëmijët në Kosovë janë në kontakt të vazhdueshëm me përmbajtjet seksuale në internet dhe rrjetet sociale. Rreth 29% për qind e të miturve dhe fëmijëve të moshës 11-16 vjeç kanë parë të paktën dy herë në javë imazhe me përmbajtje seksuale në Kosovë në 12 muajt e fundit. </p>
-                            </div>   
-                        </div>
-                    </div>
-                    <!-- end feature box item-->
-                      <!-- feature box item-->
-                      <div class="col-12 col-md-4 sm-margin-five-bottom last-paragraph-no-margin wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                        <div class="feature-box">
-                            <div class="content">
-                                <i class="icon-wallet text-medium-gray icon-large margin-25px-bottom md-margin-15px-bottom"></i>
-                                <p class="width-85 mx-auto md-width-100 text-left">Fëmijët në Kosovë janë në kontakt të vazhdueshëm me përmbajtjet seksuale në internet dhe rrjetet sociale. Rreth 29% për qind e të miturve dhe fëmijëve të moshës 11-16 vjeç kanë parë të paktën dy herë në javë imazhe me përmbajtje seksuale në Kosovë në 12 muajt e fundit. </p>
+                                <i class="fas fa-desktop text-medium-gray icon-large margin-25px-bottom md-margin-15px-bottom"></i>
+                                <p class="width-85 mx-auto md-width-100 text-left">Rekomandohet krijimi i një regjistri elektronik për autorët e krimeve seksuale duke i profilizuar ato me kategori sipas rrezikshmërisë. Mbikëqyrja nga ana e Policisë Vendore përmes dosjeve të gjurmimit duhet të plotësohet nga një program riintegrimi të tyre në shoqëri duke përfshirë në këtë proces dhe Shërbimin e Provës, sikurse ndodh në vendet e zhvilluara. Ky informacion do të ndihmonte që vendimet penale të mos kenë vetëm karakter ndëshkues por dhe rehabilitues. </p>
                             </div>   
                         </div>
                     </div>
@@ -94,7 +84,17 @@
                      <div class="col-12 col-md-4 sm-margin-five-bottom last-paragraph-no-margin wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                         <div class="feature-box">
                             <div class="content">
-                                <i class="icon-wallet text-medium-gray icon-large margin-25px-bottom md-margin-15px-bottom"></i>
+                                <i class="fas fa-restroom text-medium-gray icon-large margin-25px-bottom md-margin-15px-bottom"></i>
+                                <p class="width-85 mx-auto md-width-100 text-left">Rreth 68.5% e viktimave të abuzimit seksual në Shqipëri janë të mitur që i përkasin moshës 10-14 vjeçare, të ndjekur nga 30% të moshës 5-9 vjeç dhe 1% të moshës 0-4 vjeç. Sa i takon raportit gjinor të viktimave nga 131 të mitur të identifikuar, 93 rezultojnë të jenë femra dhe 38 meshkuj. Ndërkaq, prej 111 abuzuesve seksualë të identifikuar, 50 ose 45% të rasteve i përkasin moshës 16-26 vjeçare, të ndjekur nga 22.5% ose 25 raste të grabitqarëve seksual mbi 60-vjec dhe 16.2% ose 18 agresorë seksual të moshës 49-59 vjeç.  </p>
+                            </div>   
+                        </div>
+                    </div>
+                    <!-- end feature box item-->
+                    <!-- feature box item-->
+                    <div class="col-12 col-md-4 sm-margin-five-bottom last-paragraph-no-margin wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                        <div class="feature-box">
+                            <div class="content">
+                                <i class="fas fa-wifi text-medium-gray icon-large margin-25px-bottom md-margin-15px-bottom"></i>                                
                                 <p class="width-85 mx-auto md-width-100 text-left">Fëmijët në Kosovë janë në kontakt të vazhdueshëm me përmbajtjet seksuale në internet dhe rrjetet sociale. Rreth 29% për qind e të miturve dhe fëmijëve të moshës 11-16 vjeç kanë parë të paktën dy herë në javë imazhe me përmbajtje seksuale në Kosovë në 12 muajt e fundit. </p>
                             </div>   
                         </div>
