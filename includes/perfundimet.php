@@ -1,5 +1,5 @@
 <!-- start process step style 01 section -->
-<section class="wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+<section id="konkluzione" class="wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-7 text-center margin-40px-bottom sm-margin-40px-bottom">
@@ -25,7 +25,7 @@
                         <div class="feature-box">
                             <div class="content">
                                 <i class="fas fa-user-secret text-medium-gray icon-large margin-25px-bottom md-margin-15px-bottom"></i>
-                                <p class="width-85 mx-auto md-width-100 text-left">Nga 98 pedofilët që kanë rifituar lirinë asnjë prej tyre nuk i është nënshtruar mjekimit të detyruar duke u kthyer në kërcënim për fëmijët. Qytetet më të rrezikuara janë Tirana, Durrësi, Elbasani e Korça ku banojnë 61 pedofilë. Nga këta, 41 kanë kryer veprën e marrëdhënieve seksuale me të mitur, 8 prej të cilëve me dhunë. Në Tiranë ka 2 polic për gjurmimin e 48 pedofilëve të lirë.</p>
+                                <p class="width-85 mx-auto md-width-100 text-left">Nga 98 abuzuesit seksual që kanë rifituar lirinë asnjë prej tyre nuk është identifikuar nga drejtësia si pedofilë e nuk  i është nënshtruar mjekimit të detyruar duke u kthyer në kërcënim për fëmijët. Qytetet më të rrezikuara janë Tirana, Durrësi, Elbasani e Korça ku banojnë 61 pedofilë. Nga këta, 41 kanë kryer veprën e marrëdhënieve seksuale me të mitur, 8 prej të cilëve me dhunë. Në Tiranë ka 2 polic për gjurmimin e 48 pedofilëve të lirë.</p>
                             </div>
                         </div>
                     </div>

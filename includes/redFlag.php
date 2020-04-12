@@ -1,5 +1,5 @@
   <!-- start blog post style 02 section -->
-        <section class="wow fadeIn parallax" data-stellar-background-ratio="0.5" style="background-image: url(images/homepage-5-slider-img-1.jpg;); background-position: 0px 1px; visibility: visible; animation-name: fadeIn;" >
+        <section id="redFlag" class="wow fadeIn parallax" data-stellar-background-ratio="0.5" style="background-image: url(images/homepage-5-slider-img-1.jpg;); background-position: 0px 1px; visibility: visible; animation-name: fadeIn;" >
 		<div class="opacity-full-dark bg-extra-dark-gray"></div>
             <div class="container">
                 <div class="row justify-content-center">

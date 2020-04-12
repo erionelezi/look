@@ -1,5 +1,5 @@
 <!-- start pie chart style 02 section -->
-        <section class="wow fadeIn bg-extra-dark-gray">
+        <section id="pedofiliaPerqindje" class="wow fadeIn bg-extra-dark-gray">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-7 text-center margin-100px-bottom sm-margin-40px-bottom">

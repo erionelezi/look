@@ -92,8 +92,8 @@ fill:white !important;
                     <ul class="nav navbar-nav alt-font font-weight-700">
                         <li><a href="#dbPedofilise" title="Databaza e pedofilisë" class="inner-link">Databaza e pedofilisë </a></li>
                         <li><a href="#pedofileTeLire" title="Pedofilë të lirë" class="inner-link">Pedofilë të lirë</a></li>
-						<li><a href="#miteFakte" title="Mite & fakte" class="inner-link">Pedofilia në %</a></li>
-						<li><a href="#kontakt" title="Kontak" class="inner-link">Vendime “red flag” </a></li>
+						<li><a href="#pedofiliaPerqindje" title="Mite & fakte" class="inner-link">Pedofilia në %</a></li>
+						<li><a href="#redFlag" title="Kontak" class="inner-link">Vendime “red flag” </a></li>
 
                         <li><a href="#konkluzione" title="Konkluzione" class="inner-link">Konkluzione</a></li>
                         <li><a href="https://www.medialook.al" target="_blank" title="MediaLook">MediaLook</a></li>

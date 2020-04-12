@@ -11,7 +11,7 @@
                         <!-- end message box item -->				
 </div>
 <div class="container">
- <canvas height="400" id="canvas"></canvas>
+ <canvas height="500" id="canvas"></canvas>
 </div>
 <script>
 window.chartColors = {
